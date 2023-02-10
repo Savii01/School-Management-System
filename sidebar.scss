@@ -1,0 +1,18 @@
+.sideNav {
+    flex: 1;
+    .sidebar {
+        background-color: #320370 !important;
+        color: rgb(39, 39, 39);
+        
+        .nav{
+            .nav-item{
+                .nav-icon {
+                    .icon{
+                        font-size: 20px;
+                        font-weight: 700;
+                    }
+                }
+            }
+        }
+    }
+}
